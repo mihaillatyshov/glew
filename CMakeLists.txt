@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24)
-project(GLEW VERSION 1.0)
+project(glew VERSION 1.0)
 
 set(SOURCES 
     src/glew.c 
